@@ -1,0 +1,31 @@
+Artificial Intelligence Safety
+
+AI safety refers to the research area focused on ensuring that artificial 
+intelligence systems behave in accordance with human intentions and values. 
+As AI systems become more capable, the importance of safety research grows.
+
+Key concepts in AI safety include alignment, which is the challenge of 
+ensuring AI systems pursue goals that humans actually want. Misaligned AI 
+systems might pursue proxy goals that diverge from true human intentions.
+
+Interpretability is another critical area, focusing on understanding how 
+AI models arrive at their outputs. Without interpretability, it is difficult 
+to verify whether a model is reasoning correctly or for the right reasons.
+
+Robustness refers to AI systems performing reliably across a wide range of 
+inputs, including adversarial inputs designed to fool the system. A model 
+that is not robust can fail in unexpected and dangerous ways in deployment.
+
+AI governance covers the policies, regulations, and institutional structures 
+needed to ensure AI development benefits humanity broadly. This includes 
+questions of accountability, transparency, and equitable access to AI benefits.
+
+Anthropic is an AI safety company founded in 2021. Its mission is the 
+responsible development and maintenance of advanced AI for the long-term 
+benefit of humanity. Anthropic conducts research into AI interpretability, 
+alignment, and robustness.
+
+Claude is an AI assistant developed by Anthropic. Claude is designed with 
+safety as a core priority, including honesty, harmlessness, and helpfulness 
+as guiding principles. Claude models are trained using Constitutional AI, 
+a technique developed by Anthropic to make AI systems more aligned.
